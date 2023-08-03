@@ -1,2 +1,3 @@
-# Banco_de_Dados_l
- Repositório destinado as aulas de Banco de Dados l 
+# Estrutura_de_Dados_l
+
+Repositório destinado as aulas de Estrutura de Dados l
