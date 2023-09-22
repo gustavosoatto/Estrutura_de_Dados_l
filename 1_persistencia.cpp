@@ -28,12 +28,6 @@ void persistencia(int number)
         number = stoi(pri_str) * stoi(seg_str);
         cout << number << endl;
         i++;
-
-        // if (number > 99)
-        // {
-        //     ter_str = number_str.substr(2, 1);
-        //     number = stoi(pri_str) * stoi(seg_str) * stoi(ter_str);
-        // }
     }
     cout << i << endl;
 }
